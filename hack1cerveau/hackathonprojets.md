@@ -20,6 +20,7 @@ permalink: /projet_hackathon/
 5. [Induction de rêves Lucides par flash lumineux](#projet5)
 6. [Naming Game](#projet6)
 7. [Arts & Sciences 4 your Brain](#projet7)
+8. [Dans la tête d'une IA](#projet8)
 
 ## Les inscriptions sont ouvertes !
 [C'est par ici !](https://framaforms.org/inscription-hackathon-hack1-cerveau-1510160679)
@@ -172,6 +173,17 @@ Une implémentation du jeu sous forme d'application web existe déjà (pour un u
 - exemple de fonctionnement : [naming-game.bordeaux.inria.fr](http://naming-game.bordeaux.inria.fr)
 
 ## <a name="projet7"></a> Projet 7 - Arts & Sciences 4 your Brain (projet bonus)
+**Projet présenté par :** Xavier Hinaut - (xavier.hinaut (at) inria (point) fr)
+
+**Mots-clés décrivant le projet :** art, fablab, découpeuse laser, découpeuse vinyle, imprimante 3D, IRM, images scientifiques, carte gpio, émetteur d'ondes radios, prises chacons, carte type raspberry
+
+**Domaine(s) concerné(s) :** art, matériel fablab, graphisme, neurosciences,
+
+L'idée est de profiter un maximum des ressources et machines du 127° (le fablab de Cap Sciences) afin de créer des objets artistiques autour du cerveau ; lampes, supports, badges, logos ou autres idées incongrues.
+
+Voici un exemple parmi des millions de ce qui pourra être fait : [une lampe en plexiglas](https://fablab.lacasemate.fr/?_escaped_fragment_=/projects/lampe-plexiglas-pilotable-en-wifi#!/projects/lampe-plexiglas-pilotable-en-wifi) avec une image d'image IRM\* gravée dessus. Par la superposition de différentes "tranches" d'IRM et en ajoutant ces lampes les unes à côté des autres, on pourra donner l'impression d'avoir un cerveau complet illuminé !
+
+## <a name="projet8"></a> Projet 8 - Dans la tête d'une IA
 **Projet présenté par :** Xavier Hinaut - (xavier.hinaut (at) inria (point) fr)
 
 **Mots-clés décrivant le projet :** art, fablab, découpeuse laser, découpeuse vinyle, imprimante 3D, IRM, images scientifiques, carte gpio, émetteur d'ondes radios, prises chacons, carte type raspberry
