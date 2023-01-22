@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A propos du Mindlabdx
+title: A propos d'Ascoergo
 permalink: /about/
 ---
 
