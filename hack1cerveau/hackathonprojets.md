@@ -111,7 +111,7 @@ The team will teach NEURON software for simulation
 <strong>ATTENTION: Comme vous avez pu le comprendre, a priori la communication avec l'encadrante se fera en anglais.</strong>
 <BR>
 
-<center><img src="/images/projets/Neuron Fig schemtic - CHITARANJAN MAHAPATRA" width="600"></center>
+<center><img src=":/images/projets/Neuron Fig schemtic - CHITARANJAN MAHAPATRA" width="600"></center>
 <BR>
 
 
