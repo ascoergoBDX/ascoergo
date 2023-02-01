@@ -50,7 +50,7 @@ Formation éventuelle à faire en amont sur Unity pour mieux comprendre mais pos
 
 **Mots-clés décrivant le projet :** Art numérique - IA - Deep Learning - Cerveau - Création - Mémoire Episodique - Rêves
 
-<center><img src="/images/projets/hackathon_dreams - Hugo Chateau-Laurent" width="400"></center>
+<center><img src=":/images/projets/hackathon_dreams - Hugo Chateau-Laurent" width="400"></center>
 Le but est de créer une installation mêlant arts et sciences permettant de visualiser les "rêveries" d'une IA en les projetant. 
 
 **Compétences requises :** Aucune.
@@ -121,11 +121,12 @@ The team will teach NEURON software for simulation
 **Mots-clés décrivant le projet :** Médiation - Systèmes multi-agents - Dynamiques de groupe - Création chorégraphique
 
 Projet de médiation visant à appréhender le concept de systèmes multi-agents (SMA) (et leurs applications, e.g. modélisation des intelligences collectives et des dynamiques de groupe) par le biais de la danse. 2 grands axes pourront être envisagés: - soit une composition chorégraphique permettant de visualiser des mécanismes SMA, - soit l'implémentation d'un logiciel basé sur une plateforme SMA permettant de simuler les déplacements des "danseurs" suite à l'implémentation de quelques règles chorégraphiques simples.
+
 **Compétences requises :**SMA: théorie, la connaissance dune plateforme SMA (e.g. Jade) peut aider; Danse: pas de pré-requis particulier
 
 <BR>
 
-## <a name="projet8"></a> Projet 7 - Apprentissage par renforcement guid´e par l’humain : une application en RV
+## <a name="projet8"></a> Projet 8 - Apprentissage par renforcement guidé par l’humain : une application en RV
 **Projet présenté par :** Matisse Poupard (Inria)
 
 **Mots-clés décrivant le projet :** Réalité Virtuelle - IA - MAchine Learning 
