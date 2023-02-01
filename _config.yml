@@ -13,13 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MindLaBdx
-email: mindlabordeaux(at)gmail[dot]com
+title: Ascoergo
+email: ascoergo(at)gmail[dot]com
 description: > 
-  Le MindLaBdx est un laboratoire citoyen ouvert en Intelligence Artificielle et Sciences Cognitives.
+  Asocergo est l'association des étudiants de sciences cognitives de Bordeaux.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mindlabdx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: "@mindlabdx"
+url: "https://ascoergobdx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: "@ascoergo"
+instagram_username: "@ascoergo"
 github_username:  "mindlabdx"
 
 # Build settings
