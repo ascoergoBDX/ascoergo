@@ -47,7 +47,7 @@ Formation éventuelle à faire en amont sur Unity pour mieux comprendre mais pos
 
 **Mots-clés décrivant le projet :** Art numérique - IA - Deep Learning - Cerveau - Création - Mémoire Episodique - Rêves
 
-<center><img src="../images/projets/hackathon_dreams - Hugo Chateau-Laurent.jpg" width="400"></center>
+<center><img src="../images/projets/hackathon_dreams - Hugo Chateau-Laurent.png" width="400"></center>
 Le but est de créer une installation mêlant arts et sciences permettant de visualiser les "rêveries" d'une IA en les projetant. 
 
 **Compétences requises :** Aucune.
