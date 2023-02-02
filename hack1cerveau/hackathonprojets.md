@@ -9,9 +9,6 @@ permalink: /projet_hackathon/
 <!--<img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="350">-->
 <!--<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="828">-->
 
-<center><img src="" width="700"></center>
-<center><img src="" width="828"></center>
-
 ## Voici la liste des projets
 1. [TOIO Story : Physical Robotic Video Game](#projet1)
 2. [Dans la tête d'une IA](#projet2)
@@ -33,7 +30,7 @@ permalink: /projet_hackathon/
 
 Le but du projet est de découvrir les interactions tangible en créant un jeu vidéo sur Unity à l'aide des contrôleurs <a href="https://www.sony.com/en/SonyInfo/design/stories/toio">toio</a> 
 
-<center><img src="/images/projets/" width="600"></center> <!-- pas oublier de changer liens image -->
+ <!-- pas oublier de changer liens image -->
 
 **Compétences requises :** Quelques compétences en développement (assez pour comprendre et coder quelques lignes de codes notamment en C# et Unity) 
 Formation éventuelle à faire en amont sur Unity pour mieux comprendre mais possibilité d'apprendre sur le tas.
@@ -50,7 +47,7 @@ Formation éventuelle à faire en amont sur Unity pour mieux comprendre mais pos
 
 **Mots-clés décrivant le projet :** Art numérique - IA - Deep Learning - Cerveau - Création - Mémoire Episodique - Rêves
 
-<center><img src=":/images/projets/hackathon_dreams - Hugo Chateau-Laurent" width="400"></center>
+<center><img src="../images/projets/hackathon_dreams - Hugo Chateau-Laurent" width="400"></center>
 Le but est de créer une installation mêlant arts et sciences permettant de visualiser les "rêveries" d'une IA en les projetant. 
 
 **Compétences requises :** Aucune.
@@ -80,6 +77,10 @@ Le projet veut mettre au point un système de jeu de rôle utilisable en rapport
 (Une connaissance générale de processus est un plus pour le transformer en JdR)
 Dans le cas contraire, une période de formation pourra être envisagée sur place d'environ 2 à 4h selon la discipline choisie par les membres du groupe.
 
+<center><img src="../images/projets/jdr - Axel Palaude.jpg" width="600"></center>
+
+<BR>
+
 ## <a name="projet5"></a> Projet 5 - Ecrire plus vite que son ombre
 
 **Projet encadré par :**  David Trocellier (Inria)
@@ -89,9 +90,6 @@ Dans le cas contraire, une période de formation pourra être envisagée sur pla
 L'objectif du projet est, en se basant sur les modèles d'apprentissage de sciences cognitives, de créer une interface qui permet d'apprendre aux personnes à taper au clavier le plus vite possible. Le projet peut prendre la forme d'un "serious game", avec une interface graphique en local ou alors en créant un site web.
 
 **Compétences requises :**Design, Conception de site web dynamique ou programmation graphique dans n'importe quel langage.
-
-<center><img alt="" src="" width="600"></center>
-<center>Image : </center>
 
 <BR>
 
@@ -111,7 +109,7 @@ The team will teach NEURON software for simulation
 <strong>ATTENTION: Comme vous avez pu le comprendre, a priori la communication avec l'encadrante se fera en anglais.</strong>
 <BR>
 
-<center><img src=":/images/projets/Neuron Fig schemtic - CHITARANJAN MAHAPATRA" width="600"></center>
+<center><img src="../images/projets/Neuron Fig schemtic - CHITARANJAN MAHAPATRA" width="600"></center>
 <BR>
 
 
