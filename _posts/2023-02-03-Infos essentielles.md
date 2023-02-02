@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Hack'1 Cerveau!"
+title:  "Infos Essentielles Hack'1 Cerveau 2023"
 categories: event
 permalink: /hack1cerveau/
 ---
