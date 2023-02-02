@@ -5,10 +5,6 @@ permalink: /projet_hackathon/
 ---
 [//]: # (/hack1cerveau/projet_hackathon/)
 
-
-<!--<img src="/images/CC0_creative_common_from_pixabay/brain-2676370_960_720.jpg" width="350">-->
-<!--<img src="/images/CC0_creative_common_from_pixabay/artificial-intelligence-2228610_1920.jpg" width="828">-->
-
 ## Voici la liste des projets
 1. [TOIO Story : Physical Robotic Video Game](#projet1)
 2. [Dans la tête d'une IA](#projet2)
@@ -17,10 +13,12 @@ permalink: /projet_hackathon/
 5. [Ecrire plus vite que son ombre](#projet5)
 6. [Alcohol fires your brain](#projet6)
 7. [Multi-agents danseurs](#projet7)
-8. [Apprentissage par renforcement guidé par l’humain : une application en RV](#projet7)
+8. [Apprentissage par renforcement guidé par l’humain : une application en RV](#projet8)
 
 ## Les inscriptions sont ouvertes !
-[C'est par ici !](https://framaforms.org/inscription-hackathon-hack1-cerveau-1510160679)
+[C'est par ici !](https://docs.google.com/forms/d/1-HaSGW5GcaIXj7GEbcuA_9FuuTZ5sCZG2vFffPAscns/viewform?edit_requested=true)
+
+<strong>Des channels seront mis en place sur notre Discord pour discuter des projets et éventuellement former des équipes, alors pour ne rien rater, inscrivez-vous sur notre Discord avec <a href="https://discord.gg/YrNCXyxe">ce lien!</a></strong>
 
 ## <a name="projet1"></a> Projet 1 -  TOIO Story : Physical Robotic Video Game
 
