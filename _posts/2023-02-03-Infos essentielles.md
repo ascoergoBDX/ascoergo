@@ -26,7 +26,7 @@ Planning (susceptible de changer):
     <li>19h30: Accueil des participants</li>
 </ul>
 
-vendredi 19h30 - dimanche 16h: On charbonne!
+## vendredi 19h30 - dimanche 16h: On charbonne!
 
 ## dimanche 05 mars:
 <ul>
