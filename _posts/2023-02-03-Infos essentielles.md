@@ -51,7 +51,7 @@ Il aura lieu sur le <strong>campus de Talence </strong><a href="https://www.goog
 
 ## Participez ! <a name="participez"></a>
 
- Pour participer rien de plus simple, inscrivez vous ici :  [https://forms.gle/CYaFrbxocDuu6ufU9]
+ Pour participer rien de plus simple, inscrivez vous ici :  [https://forms.gle/CYaFrbxocDuu6ufU9](https://forms.gle/CYaFrbxocDuu6ufU9)
 
 Lors de votre inscription, il vous sera demandé de noter votre intérêt pour chaque projet et nous diviserons les équipes de manière à ce qu'elles soient diverses et équilibrées.
 
