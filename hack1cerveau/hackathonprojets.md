@@ -46,8 +46,7 @@ Formation éventuelle à faire en amont sur Unity pour mieux comprendre mais pos
 **Mots-clés décrivant le projet :** Art numérique - IA - Deep Learning - Cerveau - Création - Mémoire Episodique - Rêves
 
 <center><img src="../images/projets/hackathon_dreams - Hugo Chateau-Laurent.png" width="400"></center>
-Le but est de créer une installation mêlant arts et sciences permettant de visualiser les "rêveries" d'une IA en les projetant. 
-
+“Dans la Tête d’une IA” est un projet d’arts plastiques visant à faire un parallèle entre cognition naturelle et cognition artificielle. Les intelligences artificielles récentes s’inspirent largement du fonctionnement de notre cerveau, et c’est pour mettre cela en évidence que ce projet visera à “incarner”, c’est-à-dire ancrer dans le monde physique, une intelligence artificielle existante dans une sculpture de cerveau. Les porteurs et porteuses du projets pourront par exemple projeter une vidéo d’art généré par une IA telle que BeepleGAN, son imagination en quelque sorte, sur la structure réalisée.
 **Compétences requises :** Aucune.
 
 <BR>
