@@ -124,7 +124,10 @@ Voici une liste non exhaustives d'autres objectifs plus larges dans lesquels le 
 
 - La région [FSDIE / Université de Bordeaux](https://www.u-bordeaux.fr/Campus/Vie-associative/Projets-etudiants-FSDIE)
 <center><img src="/images/LOGO_FSDIE_brun.png" align="middle" width="250"></center>
-
+- La Contribution de vie étudiante et campus(CVEC)
+<center><img src="/images/CVEC.png" align="middle" width="250"></center>
+- L'UFMI
+<center><img src="/images/LOGO_UFMI.png" align="middle" width="250"></center>
 - L'ecole doctorale EDSP2
 <center><img src="/images/LOGO_EDSP2.png" align="middle" width="250"></center>
 #### Partenaires de l'événement
