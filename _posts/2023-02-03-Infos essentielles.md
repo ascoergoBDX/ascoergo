@@ -42,7 +42,7 @@ Le hackathon sera l'occasion de former des équipes très pluridisciplinaires qu
 - etc.
 
 ## Quand ?  <a name="quand"></a>
-Du vendredi 3 au dimanche 5 mars 2017. Du vendredi à partir 18h, au dimanche 16h, le hackathon seras ouvert 24h sur 24.
+Du vendredi 3 au dimanche 5 mars 2023. Du vendredi à partir 18h, au dimanche 16h, le hackathon seras ouvert 24h sur 24.
 
 ## Où ?  <a name="ou"></a>
 
