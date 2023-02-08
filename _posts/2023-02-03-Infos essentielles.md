@@ -48,7 +48,6 @@ Du vendredi 3 au dimanche 5 mars 2023. Du vendredi à partir 18h, au dimanche 16
 
 Il aura lieu sur le <strong>campus de Talence </strong><a href="https://www.google.com/maps/place/Universit%C3%A9+de+Bordeaux+-+Campus+Talence/@44.8037983,-0.6044958,15z/data=!4m10!1m2!2m1!1scampus+talence+bordeaux!3m6!1s0xd5527777a6f18f1:0xafc0f6b54ea8a8d1!8m2!3d44.8086048!4d-0.5935827!15sChdjYW1wdXMgdGFsZW5jZSBib3JkZWF1eJIBCnVuaXZlcnNpdHngAQA!16s%2Fm%2F02x5kds">(351 cours de la Libération, 33400 Talence)</a> dans le bâtiment A29, à droite du A22, qui en face de l'arrêt du tram B Béthanie.
 
-
 ## Participez ! <a name="participez"></a>
 
  Pour participer rien de plus simple, inscrivez vous ici :  [https://forms.gle/CYaFrbxocDuu6ufU9](https://forms.gle/CYaFrbxocDuu6ufU9)
