@@ -131,9 +131,10 @@ Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possi
 <center><img src="/images/LOGO_UFMI.png" align="middle" width="250"></center>
 - L'ecole doctorale EDSP2
 <center><img src="/images/LOGO_EDSP2.png" align="middle" width="250"></center>
+
 #### Partenaires de l'événement
 - La semaine du cerveau
 <center><img src="/images/LogoCerveauRVB.png" align="middle" width="250"></center>
-#### Partenaires de l'événement
+
 
 
