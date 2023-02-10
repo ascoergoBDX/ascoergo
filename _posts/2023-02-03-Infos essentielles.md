@@ -134,7 +134,7 @@ Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possi
 
 #### Partenaires de l'événement
 - La semaine du cerveau
-<center><img src="/images/LogoCerveauRVB.png" align="middle" width="250"></center>
+<center><img src="/images/LogoCerveauRVB.png" align="middle" width="200"></center>
 
 
 

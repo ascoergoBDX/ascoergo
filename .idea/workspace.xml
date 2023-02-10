@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a54da00c-5ff3-4e86-b267-0a2a181d8459" name="Default" comment="Changement date">
-      <change afterPath="$PROJECT_DIR$/images/LogoCerveauRVB.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a54da00c-5ff3-4e86-b267-0a2a181d8459" name="Default" comment="Add semaine du cerveau as sponsor">
       <change beforePath="$PROJECT_DIR$/_posts/2023-02-03-Infos essentielles.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-02-03-Infos essentielles.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -278,7 +276,8 @@
     <MESSAGE value="MAJ appel description hack1cerveau2023" />
     <MESSAGE value="MAJ description la tête dans une IA" />
     <MESSAGE value="Changement date" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changement date" />
+    <MESSAGE value="Add semaine du cerveau as sponsor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add semaine du cerveau as sponsor" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_posts/2017-01-08-welcome-to-jekyll.markdown">
