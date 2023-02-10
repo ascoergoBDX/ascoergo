@@ -11,7 +11,7 @@ permalink: /hack1cerveau/
 * [Participez !](#participez) il reste encore des places disponibles pour s'inscrire (fermeture des inscription jeudi 7 décembre) !
 * [Projets proposés](#projets) : découvrez les projets qui vous attendent !
 * [Quand ?](#quand) le week-end __du 3 au 5 mars 2023__.
-* [Où ?](#ou) __au batiment A22__, dans __le campus de l'université de Bordeaux__, à Talence.
+* [Où ?](#ou) __au batiment A29__, dans __le campus de l'université de Bordeaux__, à Talence.
 * [Quoi ?](#quoi) un hackathon : un marathon pour réaliser des projets innovants !
 * [Comment ?](#comment) par équipes autour d'un projet proposé par un-e expert-e.
 * [Pour qui?](#pour_qui) pour toutes et tous de 15 ans à 115 ans !
@@ -121,6 +121,8 @@ Voici une liste non exhaustives d'autres objectifs plus larges dans lesquels le 
 
 #### Soutiens financiers
 
+Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
+
 - La région [FSDIE / Université de Bordeaux](https://www.u-bordeaux.fr/Campus/Vie-associative/Projets-etudiants-FSDIE)
 <center><img src="/images/LOGO_FSDIE_brun.png" align="middle" width="250"></center>
 - La Contribution de vie étudiante et campus (CVEC)
@@ -130,6 +132,8 @@ Voici une liste non exhaustives d'autres objectifs plus larges dans lesquels le 
 - L'ecole doctorale EDSP2
 <center><img src="/images/LOGO_EDSP2.png" align="middle" width="250"></center>
 #### Partenaires de l'événement
-Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
+- La semaine du cerveau
+<center><img src="/images/LogoCerveauRVB.png" align="middle" width="250"></center>
+#### Partenaires de l'événement
 
 
