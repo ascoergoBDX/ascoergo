@@ -8,7 +8,7 @@ permalink: /hack1cerveau/
 ## En bref
 * [Résumé de l'événement](#resume)
 * [Planning](#planning) pour connaître le déroulé du week-end !
-* [Participez !](#participez) il reste encore des places disponibles pour s'inscrire (fermeture des inscription jeudi 7 décembre) !
+* [Participez !](#participez) il reste encore des places disponibles pour s'inscrire (fermeture des inscription mercredi 1e mars) !
 * [Projets proposés](#projets) : découvrez les projets qui vous attendent !
 * [Quand ?](#quand) le week-end __du 3 au 5 mars 2023__.
 * [Où ?](#ou) __au batiment A29__, dans __le campus de l'université de Bordeaux__, à Talence.
@@ -42,7 +42,7 @@ Le hackathon sera l'occasion de former des équipes très pluridisciplinaires qu
 - etc.
 
 ## Quand ?  <a name="quand"></a>
-Du vendredi 3 au dimanche 5 mars 2023. Du vendredi à partir 18h, au dimanche 16h, le hackathon seras ouvert 24h sur 24.
+Du vendredi 3 au dimanche 5 mars 2023. Du vendredi à partir 18h, au dimanche 16h, le hackathon sera ouvert 24h sur 24.
 
 ## Où ?  <a name="ou"></a>
 
