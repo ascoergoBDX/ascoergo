@@ -19,8 +19,9 @@ description: >
   Asocergo est l'association des étudiants de sciences cognitives de Bordeaux.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ascoergobdx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: "@ascoergo"
-instagram_username: "@ascoergo"
+twitter_username: "@Ascoergo"
+instagram_username: "@Ascoergo"
+discord_server : "https://discord.gg/r8x3GYG4zg"
 github_username:  "ascoergobdx"
 
 # Build settings
