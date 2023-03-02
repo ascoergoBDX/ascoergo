@@ -16,7 +16,7 @@ permalink: /projet_hackathon/
 8. [Apprentissage par renforcement guidé par l’humain : une application en RV](#projet8)
 
 ## Les inscriptions sont ouvertes !
-[C'est par ici !](https://docs.google.com/forms/d/1-HaSGW5GcaIXj7GEbcuA_9FuuTZ5sCZG2vFffPAscns/viewform?edit_requested=true)
+**LE HACKATHON EST ANNULE (désolé)**
 
 <strong>Des channels seront mis en place sur notre Discord pour discuter des projets et éventuellement former des équipes, alors pour ne rien rater, inscrivez-vous sur notre Discord avec <a href="https://discord.gg/YrNCXyxe">ce lien!</a></strong>
 
