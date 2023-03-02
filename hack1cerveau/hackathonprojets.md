@@ -18,7 +18,7 @@ permalink: /projet_hackathon/
 ## Les inscriptions sont ouvertes !
 **LE HACKATHON EST ANNULE (désolé)**
 
-<strong>Des channels seront mis en place sur notre Discord pour discuter des projets et éventuellement former des équipes, alors pour ne rien rater, inscrivez-vous sur notre Discord avec <a href="https://discord.gg/U3NeGDt88E">ce lien!</a></strong>
+<strong>Des channels seront mis en place sur notre Discord pour discuter des projets et éventuellement former des équipes, alors pour ne rien rater, inscrivez-vous sur notre Discord avec <a href="https://discord.gg/r8x3GYG4zg">ce lien!</a></strong>
 
 ## <a name="projet1"></a> Projet 1 -  TOIO Story : Physical Robotic Video Game
 
